@@ -64,3 +64,8 @@ conda activate lc_learner
 
 # 安装依赖
 pip install -r requirements.txt
+
+
+## Development
+
+This project uses GitHub Actions for CI testing.
